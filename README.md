@@ -41,11 +41,17 @@ Open the index.html file in your preferred web browser to view the application.
 Directory Structure
 
 index.html: Home page with an overview of the application.
+
 task_manager.html: Page for managing tasks.
+
 reminder.html: Page for setting and viewing reminders.
+
 journal.html: Page for writing and viewing journal entries.
-css/styles.css: Stylesheet for styling the application.
-js/app.js: JavaScript file for dynamic functionality.
+
+styles.css: Stylesheet for styling the application.
+
+app.js: JavaScript file for dynamic functionality.
+
 images/: Directory containing images used in the application.
 
 Contributing
