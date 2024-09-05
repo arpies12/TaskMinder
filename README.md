@@ -30,7 +30,7 @@ To get started with TaskMinder Pro, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/taskminder-pro.git
+   git clone https://github.com/arpies12/taskminder-pro.git
 Navigate to the Project Directory
 bash
 Copy code
