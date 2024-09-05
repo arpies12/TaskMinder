@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Journal - TaskMinder Pro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+</head>
+<body>
+    <header>
+        <h1>TaskMinder Pro</h1>
+        <nav>
+            <a href="task_manager.html"><i class="fas fa-tasks"></i> Task Manager</a>
+            <a href="remainder.html"><i class="fas fa-bell"></i> Reminders</a>
+            <a href="journal.html"><i class="fas fa-book"></i> Journal</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Journal</h2>
+        <textarea id="journal-entry" placeholder="Write your thoughts here..."></textarea>
+        <button id="save-journal-btn">Save Entry</button>
+        <div id="journal-entries"></div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
